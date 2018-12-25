@@ -9,7 +9,7 @@
 ## 特征工程与模型训练
 #### model.ipynb
 ## 评价指标
-
+![rmsle](https://github.com/jsheng2017/MachineLearningCourse/blob/master/task4/rmsle.png)
 ## 结果
  模型 | RMSLE值 
  ---- | ----- 
